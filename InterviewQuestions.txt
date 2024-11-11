@@ -1,0 +1,6 @@
+1) Why Vite + React?
+2) What is npm install?
+3) what is dev dependency?
+4) why package-lock and package .json?
+5) Why app.css and index.css ?
+6) What is React - router DOM ?
