@@ -1,4 +1,5 @@
 import Banner from "./Banner"
+import Recommended from "./Recommended";
 import TopSellers from './TopSellers';
 
 const home = () => {
@@ -6,6 +7,7 @@ const home = () => {
     <>
       <Banner/>
       <TopSellers/>
+      <Recommended/>
     </>
   )
 }
