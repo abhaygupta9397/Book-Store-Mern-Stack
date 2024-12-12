@@ -4,3 +4,4 @@
 4) why package-lock and package .json?
 5) Why app.css and index.css ?
 6) What is React - router DOM ?
+7) What is the Redux toolkit ?
